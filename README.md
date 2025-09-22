@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="100" src="https://64.media.tumblr.com/d06fd2eb7097e771d37ee9f9b2327c7e/a501703b14372faa-af/s1280x1920/5cfb85b0f95e9101d8554f666c74698da1ac92cb.pnj"  />
-</div>
-
 $${\color{indianred}╭┈ • ┈┈┈┈┈ ୨୧ ┈┈┈┈┈ • ┈╮}$$
 
 <div align="center">
