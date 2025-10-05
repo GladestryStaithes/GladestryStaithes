@@ -1,17 +1,13 @@
-$${\color{indianred}╭┈ • ┈┈┈┈┈ ୨୧ ┈┈┈┈┈ • ┈╮}$$
+$${\color{indianred}჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻}$$
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/6bbd18e32a492a2a670d470151cbc830/a501703b14372faa-88/s640x960/fc51270d4c84d563fab40ead1ab341bf39f12141.jpg"  />
+  <img height="200" src="https://64.media.tumblr.com/1a3aa5efa9973f1ee8768725986306bd/e6781903f4bda382-df/s1280x1920/da52f99869fe4a824ffc40f7bfbcc1b5d4f17f9f.pnj"  />
 </div>
 
-$${\color{indianred}╰┈ • ┈┈┈┈ ୨୧ ┈┈┈┈┈ • ┈╯ }$$
+$${\color{indianred}჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻ }$$
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=GladestryStaithes.GladestryStaithes&left_color=palegoldenrod&right_color=indianred&left_text=%E2%80%A0%20Dreams%20In%20This%20Server%20%20%E2%80%A0"  />
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GladestryStaithes.GladestryStaithes&left_color=indianred&right_color=palegoldenrod&left_text=%E2%80%A0%20Reposes%20%E2%80%A0"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GladestryStaithes.GladestryStaithes&left_color=salmon&right_color=red&left_text=%E0%BF%90%E0%BF%94%20Coins%20flipped"  />
 </div>
 
 ###
